@@ -1,0 +1,10 @@
+E:\MyPrg\Mono\GtkHelloWorld\GtkHelloWorld\bin\Debug\GtkHelloWorld.exe
+E:\MyPrg\Mono\GtkHelloWorld\GtkHelloWorld\bin\Debug\GtkHelloWorld.pdb
+E:\MyPrg\Mono\GtkHelloWorld\GtkHelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyPrg\Mono\GtkHelloWorld\GtkHelloWorld\obj\x86\Debug\GtkHelloWorld.exe
+E:\MyPrg\Mono\GtkHelloWorld\GtkHelloWorld\obj\x86\Debug\GtkHelloWorld.pdb
+E:\myPrgGitHubbed\GtkHelloWorld\GtkHelloWorld\bin\Debug\GtkHelloWorld.exe
+E:\myPrgGitHubbed\GtkHelloWorld\GtkHelloWorld\bin\Debug\GtkHelloWorld.pdb
+E:\myPrgGitHubbed\GtkHelloWorld\GtkHelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\myPrgGitHubbed\GtkHelloWorld\GtkHelloWorld\obj\x86\Debug\GtkHelloWorld.exe
+E:\myPrgGitHubbed\GtkHelloWorld\GtkHelloWorld\obj\x86\Debug\GtkHelloWorld.pdb
