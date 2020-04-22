@@ -1,1 +1,1 @@
-hello WORLD
+hello WORLD auto
