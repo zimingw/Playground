@@ -4,3 +4,4 @@ update
 refresh
 change
 blitz
+smart
