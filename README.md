@@ -7,3 +7,4 @@ blitz
 smart
 change
 touch
+15%
